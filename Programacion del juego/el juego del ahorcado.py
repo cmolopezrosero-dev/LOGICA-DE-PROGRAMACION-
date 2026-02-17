@@ -1,4 +1,5 @@
 
+
 def Ahorcado(index_palabras):
     plabras= ['hola', ' ahorcado', 'programar', 'computadora', 'ambato']
     
@@ -14,3 +15,4 @@ def Ahorcado(index_palabras):
         guess = input("Adivina una letra: ").lower()
          #   Se menciono que solo se requeria un total de 50%  de avanze del programa.
     
+
