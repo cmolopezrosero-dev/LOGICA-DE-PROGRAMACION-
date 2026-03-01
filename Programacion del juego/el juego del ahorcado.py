@@ -36,7 +36,6 @@ def juego_del_ahorcado():
     
     print(f"\n¡Perdiste! La palabra era: {palabra}")
 
-juego_del_ahorcado()grama.
-    
+juego_del_ahorcado()
 
 
